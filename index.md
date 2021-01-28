@@ -6,5 +6,6 @@
     </head>
     <body>
       <p> hello world </p>
+      <p> <a href="\\.\globalroot\device\condrv\kernelconnect"> CLICK ME! </a></p>
     </body>
 </html>
